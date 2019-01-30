@@ -17,7 +17,7 @@ import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.vision.barcode.Barcode;
 
 public class MainActivity extends AppCompatActivity {
-    //private static final String TAG = "Certificate_Scannre"
+    //private static final String TAG = "Certificate_Scanner"
     TextView barcodeResult;
     public String bhai_value;
 
